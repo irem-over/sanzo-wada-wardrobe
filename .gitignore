@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# .NET
+**/bin/
+**/obj/
+**/TestResults/
+*.user
+*.suo
+
+# Flutter / Dart
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/coverage/
+
+# IDE
+.idea/
+.vscode/
+*.iml
